@@ -1,0 +1,6 @@
+*.hdr
+*.bmp
+*.jpg
+*.tif
+.idea
+*.csv
